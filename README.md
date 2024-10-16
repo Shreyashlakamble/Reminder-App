@@ -1,9 +1,7 @@
-# Apress Source Code
+# Android Source Code
 
-This repository accompanies [*Create Reminder App in Android Studio: Create a Simple Reminder App for Android*](https://www.link.springer.com/book/10.1007/) by Tihomir RAdeff (Apress, 2023).
+Creates a simple reminder app in android Studio ,by Shreyash Lakamble (October, 2024).
 
-[comment]: #cover
-![Cover image](.JPG)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
